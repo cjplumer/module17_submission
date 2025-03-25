@@ -4,7 +4,7 @@
 
 This project aims to compare the performance of the classifiers K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines.  I will run this analysis utilizing a dataset related to marketing bank products over the telephone. The goal is to understand which algorithm performed best for this particular business problem and dataset, providing insights that could optimize future marketing efforts.
 
-The Jupyter workbook that was used to come to the above findings is available in this GitHub repository here: [module_17_assignment_workbook.ipynb](https://github.com/cjplumer/module11_submission/blob/9a8e409a346d004dfbcddae2c0dcc995510ec9d2/prompt_II_working.ipynb)
+The Jupyter workbook that was used to come to the above findings is available in this GitHub repository here: [module_17_assignment_workbook.ipynb](https://github.com/cjplumer/module17_submission/blob/main/module_17_assignment_workbook.ipynb)
 
 ## Dataset
 
